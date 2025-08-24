@@ -11,3 +11,11 @@ First to score **5 points** wins the game!
    ```bash
    git clone https://github.com/<your-username>/dice-battle.git
    cd dice-battle
+   
+# Tech Used
+Python 3
+Pygame
+
+# Controls
+SPACE → Roll your dice
+ESC → Quit the game
